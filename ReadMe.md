@@ -1,3 +1,6 @@
+
+<picture><img src="https://raw.githubusercontent.com/braiidev/braiidev/main/banner-short.jpg" /></picture>
+
 # <picuture><img src="https://cdn-icons-png.flaticon.com/512/9437/9437514.png" width="30"/></picture> ¡Hola, coder! <picture><img src="https://cdn-icons-png.flaticon.com/512/11544/11544305.png" width="24"/></picture>
 
 ### <sub><picture><img width="16" src="https://cdn-icons-png.flaticon.com/512/9168/9168209.png"></picture></sub> Soy Braian Cano, programador full-stack <sub><picture><img width="16" src="https://cdn-icons-png.flaticon.com/512/9168/9168209.png"></picture></sub>
