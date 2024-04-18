@@ -42,3 +42,5 @@ Manejo de estructuras de datos
 ### <sub><picture><img src="https://cdn-icons-png.flaticon.com/512/6501/6501578.png" width="24" /></picture></sub> Menciones | Utilidades <sub><picture><img src="https://cdn-icons-png.flaticon.com/512/6501/6501578.png" width="24" /></picture></sub>
 
 - High Quality Icon - [Visitar](https://www.flaticon.com/authors/hight-quality-icons)
+
+<picture><img src="https://raw.githubusercontent.com/braiidev/braiidev/main/banner-short.jpg" /></picture>
