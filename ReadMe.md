@@ -1,5 +1,5 @@
 
-<picture><img src="https://raw.githubusercontent.com/braiidev/braiidev/main/banner-short.jpg" /></picture>
+<picture><img src="https://raw.githubusercontent.com/braiidev/braiidev/main/files/banner-short.jpg" /></picture>
 
 # <picuture><img src="https://cdn-icons-png.flaticon.com/512/9437/9437514.png" width="30"/></picture> ¡Hola, coder! <picture><img src="https://cdn-icons-png.flaticon.com/512/11544/11544305.png" width="24"/></picture>
 
@@ -40,10 +40,14 @@ Manejo de estructuras de datos
 
  ¡Echa un vistazo a algunos de mis proyectos más geniales para ver qué puedo hacer!
 
+[<picture><img src="https://raw.githubusercontent.com/braiidev/braiidev/main/files/presentacion_fjl.gif" width="300"/></picture>](https://braiidev.github.com/business_fjlbazar "FJL Bazar")
+
 ---
 
 ### <sub><picture><img src="https://cdn-icons-png.flaticon.com/512/6501/6501578.png" width="24" /></picture></sub> Menciones | Utilidades <sub><picture><img src="https://cdn-icons-png.flaticon.com/512/6501/6501578.png" width="24" /></picture></sub>
 
-- High Quality Icon - [Visitar](https://www.flaticon.com/authors/hight-quality-icons)
+- High Quality Icon - [Ver](https://www.flaticon.com/authors/hight-quality-icons)
 
-<picture><img src="https://raw.githubusercontent.com/braiidev/braiidev/main/banner-short.jpg" /></picture>
+- Markdown Preview - [Utilizar](https://markdownlivepreview.com)
+
+<picture><img src="https://raw.githubusercontent.com/braiidev/braiidev/main/files/banner-short.jpg" /></picture>
