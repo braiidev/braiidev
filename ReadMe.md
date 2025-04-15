@@ -1,53 +1,49 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/braiidev/braiidev/main/files/banner-short.jpg" alt="Banner" style="max-width:100%;">
+</p>
 
-<picture><img src="https://raw.githubusercontent.com/braiidev/braiidev/main/files/banner-short.jpg" /></picture>
+# ¡Hola, Bienvenid@! 👋
 
-# <picuture><img src="https://cdn-icons-png.flaticon.com/512/9437/9437514.png" width="30"/></picture> ¡Hola, coder! <picture><img src="https://cdn-icons-png.flaticon.com/512/11544/11544305.png" width="24"/></picture>
-
-### <sub><picture><img width="16" src="https://cdn-icons-png.flaticon.com/512/9168/9168209.png"></picture></sub> Soy Braian Cano, programador full-stack <sub><picture><img width="16" src="https://cdn-icons-png.flaticon.com/512/9168/9168209.png"></picture></sub>
-
-## <sub><picture><img src="https://cdn-icons-png.flaticon.com/512/6501/6501989.png" width="20"/></picture></sub> Sobre mí
-
-**E**l año pasado me metí de lleno en el mundo de la **programación**, y desde entonces he estado perfeccionando mis habilidades y aprendiendo nuevas tecnologías.
-
-Actualmente, trabajo en mi propia start-up y marca personal, donde me dedico a implementar soluciones online y automatizaciones para pequeñas y medianas empresas, ayudándolas a ser más eficientes.
-
-
-### <sub><picture><img src="https://cdn-icons-png.flaticon.com/512/6501/6501775.png" width="24" /></picture></sub> Contáctame
-[<picture><img width="64" src="https://cdn-icons-png.flaticon.com/512/6502/6502024.png"/></picture>](https://www.instagram.com/braiidev "Mi sitio web")
-[<picture><img width="64" src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png"/></picture>](https://www.instagram.com/braiidev "Seguime en Instagram")
-[<picture><img width="64" src="https://cdn-icons-png.flaticon.com/512/3670/3670163.png"/></picture>](https://www.instagram.com/braiidev "Suscríbete a mi Canal")
-[<picture><img width="64" src="https://cdn-icons-png.flaticon.com/512/6502/6502029.png" /></picture>](https://braiidev.produccion@gmail.com "Escribeme al email")
+Soy **Braian Cano**, desarrollador **full-stack** y fundador de mi propia start-up **BDS**. Me dedico a crear soluciones digitales y automatizaciones que hacen más eficientes a pequeñas y medianas empresas. 🚀
 
 ---
 
-## <sub><picture><img src="https://cdn-icons-png.flaticon.com/512/6501/6501968.png" width="24" /></picture></sub> Habilidades Técnicas
+## ¿Por qué trabajar conmigo? 🤝
 
-<sub><picture><img width="18" src="https://cdn-icons-png.flaticon.com/512/3840/3840653.png"/></picture></sub> Programación orientada a objetos
-
-<sub><picture><img width="18" src="https://cdn-icons-png.flaticon.com/512/3840/3840738.png"/></picture></sub>  Diseño y arquitectura de software
-
-<sub><picture><img width="18" src="https://cdn-icons-png.flaticon.com/512/3840/3840739.png"/></picture></sub> 
-Manejo de estructuras de datos
-
-<sub><picture><img width="18" src="https://cdn-icons-png.flaticon.com/512/3840/3840753.png"/></picture></sub> Lenguajes de programación como Python y Javascript
-
-<sub><picture><img width="18" src="https://cdn-icons-png.flaticon.com/512/3840/3840754.png"/></picture></sub> Experiencia en bases de datos relacionales y no relacionales
-
-<sub><picture><img width="18" src="https://cdn-icons-png.flaticon.com/512/3840/3840755.png"/></picture></sub>     Uso de servicios de computación en la nube, especialmente AWS
-
-
-## <sub><picture><img src="https://cdn-icons-png.flaticon.com/512/6502/6502118.png" width="24" /></picture></sub> Proyectos Destacados
-
- ¡Echa un vistazo a algunos de mis proyectos más geniales para ver qué puedo hacer!
-
-[<picture><img src="https://raw.githubusercontent.com/braiidev/braiidev/main/files/presentacion_fjl.gif" width="300"/></picture>](https://braiidev.github.com/business_fjlbazar "FJL Bazar")
+Con un enfoque moderno y práctico, combino experiencia en arquitectura de software, programación orientada a objetos y diseño de sistemas escalables. Utilizo tecnologías como **Python**, **JavaScript** y **AWS** para resolver problemas reales con soluciones simples, útiles y bien pensadas.
 
 ---
 
-### <sub><picture><img src="https://cdn-icons-png.flaticon.com/512/6501/6501578.png" width="24" /></picture></sub> Menciones | Utilidades <sub><picture><img src="https://cdn-icons-png.flaticon.com/512/6501/6501578.png" width="24" /></picture></sub>
+## 🛠️ Habilidades Técnicas
 
-- High Quality Icon - [Ver](https://www.flaticon.com/authors/hight-quality-icons)
+- ⚙️ **Programación orientada a objetos**
+- 🧠 **Diseño & Arquitectura de Software**
+- 📊 **Estructuras de Datos**
+- 💻 **Python & JavaScript**
+- 🗄️ **Bases de Datos relacionales y no relacionales**
+- ☁️ **Computación en la nube (AWS)**
 
-- Markdown Preview - [Utilizar](https://markdownlivepreview.com)
+---
 
-<picture><img src="https://raw.githubusercontent.com/braiidev/braiidev/main/files/banner-short.jpg" /></picture>
+## Trabajos realizados
+
+ **Requiriendo permisos...**
+
+---
+
+## 📬 Contacto
+
+¿Querés charlar sobre tu proyecto o cómo puedo ayudarte? Estoy a un mensaje de distancia:
+
+- 🌐 [Sitio Web](https://braiidev.github.io/)
+- 📸 [Instagram](https://www.instagram.com/braiidev)
+- 📹 [Canal de YouTube](https://www.youtube.com/@braiidev)
+- ✉️ [braiidev.produccion@gmail.com](mailto:braiidev.produccion@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/braiidev/braiidev/main/files/banner-short.jpg" alt="Banner" style="max-width:100%;">
+</p>
+
+> *Transformemos tu idea en algo increíble. ¡Estoy listo cuando vos lo estés!* 💡
